@@ -23,7 +23,7 @@ This program was developed using Python 3. To run the program, you will need to 
 ## Installation
 
 ```sh
-$ npm install @segment/stub
+$ git clone https://github.com/AswinPKumar01/Rock-Paper-Scissors.git
 ```
 
 ## Usage
@@ -31,7 +31,7 @@ $ npm install @segment/stub
 To run the program, navigate to the directory where you cloned the repository and run the main.py file.
 ```sh
 $ cd rock-paper-scissors
-$ python rps_game.py
+$ python main.py
 ```
 
 ## Contributing
